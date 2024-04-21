@@ -1,6 +1,4 @@
-# graph_with_networkx
-Graph exercises using networkx library for complex systems
+# complex_systems
+Some of my projects during my bachelor's in physics
 
-This file was a problem set about graphs in python and using the library networkx.
-
-Mohammad Mahyar Esfahani, Dec 2023
+most of these projects are about complex systems and numerical simulations in physics.
