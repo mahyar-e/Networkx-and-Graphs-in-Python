@@ -13,3 +13,7 @@ You can easily install thesse libraries by the following command:
 ```pip install [name of the library]```
 
 I hope you can use these examples to get familiar with networkx library.
+
+
+![download](https://github.com/mahyar-e/graph_networkx/assets/78594407/ac70b675-802d-4700-9133-ebb1b15359fd)
+![Uploading download.png…]()
