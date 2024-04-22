@@ -16,4 +16,5 @@ I hope you can use these examples to get familiar with networkx library.
 
 
 ![download](https://github.com/mahyar-e/graph_networkx/assets/78594407/ac70b675-802d-4700-9133-ebb1b15359fd)
-![Uploading download.png…]()
+
+![download](https://github.com/mahyar-e/graph_networkx/assets/78594407/49aad214-7d5b-48f8-9201-8bbeec931752)
