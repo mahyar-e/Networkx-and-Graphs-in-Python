@@ -30,6 +30,6 @@ A projected graph:
 ![download](https://github.com/mahyar-e/graph_networkx/assets/78594407/ac70b675-802d-4700-9133-ebb1b15359fd)
 
 
-Graph of the randomw walk:
+Graph of the random walk:
 
 ![download](https://github.com/mahyar-e/graph_networkx/assets/78594407/49aad214-7d5b-48f8-9201-8bbeec931752)
