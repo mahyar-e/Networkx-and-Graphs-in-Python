@@ -20,8 +20,11 @@ You can easily install thesse libraries by the following command:
 
 I hope you can use these examples to get familiar with networkx library.
 
+Graph of the employees and their favorite movie:
 ![image](https://github.com/mahyar-e/Networkx-and-Graphs-in-Python/assets/78594407/0b9bd9ec-5233-4fd4-beda-93aef695a5ec)
 
+A projected graph:
 ![download](https://github.com/mahyar-e/graph_networkx/assets/78594407/ac70b675-802d-4700-9133-ebb1b15359fd)
 
+Graph of the randomw walk:
 ![download](https://github.com/mahyar-e/graph_networkx/assets/78594407/49aad214-7d5b-48f8-9201-8bbeec931752)
