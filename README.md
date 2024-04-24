@@ -1,7 +1,11 @@
 # Networkx and Graphs in Python
 This was one of my problem sets about the library networkx in ptython. This library is used to work with graphs that is used in network science.
 
-This is a jupyter notebook, so in order to run this code you need to open it in google collab or jupyter notebook.
+This is a jupyter notebook, so in order to run this code you need to open it in google collab or jupyter notebook. In this problem set, I made some subgraphs and some projected graphs from the main graph of the problem. Also, I calculated the Pearson correlation, which indiactes the linear relationship of two variables. Furthermore, I generated a graph representing random walk.
+
+Link to [graph theory](https://en.wikipedia.org/wiki/Graph_theory#:~:text=In%20mathematics%2C%20graph%20theory%20is,arcs%2C%20links%20or%20lines)
+
+Link to [Pearson correlation coefficient](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient)
 
 In this code I have used the following libraries:
 
